@@ -1,0 +1,29 @@
+.About{
+margin-top: 10px;
+}
+
+.formgroup {
+
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
+
+.foot {
+
+    background-color: gray;
+    text-decoration-color: white;
+    text-align: center;
+
+}
+
+.imggroup{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-right: 200px;
+    margin-left: 200px;
+
+
+}
